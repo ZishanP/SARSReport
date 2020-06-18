@@ -1,0 +1,17 @@
+#report for SARS
+
+ORF1a polyprotein(433 - 13480)
+
+ORF1ab polyprotein(13518 - 21552)
+
+surface glycoprotein(21553 - 25381)
+
+ORF3a protein(25446 - 26217)
+
+membrane glycoprotein (26552 - 27188)
+
+ORF7a protein (27438 - 27756)
+
+ORF8 protein (27953 - 28256)
+
+nucleocapsid phophoprotein (28270 - 29530)
